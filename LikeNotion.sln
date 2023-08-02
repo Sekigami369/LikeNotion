@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeNotion.Server", "Server\LikeNotion.Server.csproj", "{EAA45CBE-2E82-402B-B472-4A67C3651539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LikeNotion.Server", "Server\LikeNotion.Server.csproj", "{EAA45CBE-2E82-402B-B472-4A67C3651539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeNotion.Client", "Client\LikeNotion.Client.csproj", "{8D1B9AB9-2CAB-45B3-A2B2-B1358730DC40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LikeNotion.Client", "Client\LikeNotion.Client.csproj", "{8D1B9AB9-2CAB-45B3-A2B2-B1358730DC40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeNotion.Shared", "Shared\LikeNotion.Shared.csproj", "{9774727B-C405-417C-97C3-08A544697E98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LikeNotion.Shared", "Shared\LikeNotion.Shared.csproj", "{9774727B-C405-417C-97C3-08A544697E98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

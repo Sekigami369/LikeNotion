@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\skgmy\source\repos\LikeNotion\Server
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/skgmy/source/repos/LikeNotion/Server/Pages/SharedDocument.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkRG9jdW1lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/skgmy/source/repos/LikeNotion/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

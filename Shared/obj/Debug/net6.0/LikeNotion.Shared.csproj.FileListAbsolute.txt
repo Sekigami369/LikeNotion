@@ -1,0 +1,12 @@
+C:\Users\skgmy\source\repos\LikeNotion\Shared\bin\Debug\net6.0\LikeNotion.Shared.deps.json
+C:\Users\skgmy\source\repos\LikeNotion\Shared\bin\Debug\net6.0\LikeNotion.Shared.dll
+C:\Users\skgmy\source\repos\LikeNotion\Shared\bin\Debug\net6.0\LikeNotion.Shared.pdb
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\LikeNotion.Shared.csproj.AssemblyReference.cache
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\LikeNotion.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\LikeNotion.Shared.AssemblyInfoInputs.cache
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\LikeNotion.Shared.AssemblyInfo.cs
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\LikeNotion.Shared.csproj.CoreCompileInputs.cache
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\LikeNotion.Shared.dll
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\refint\LikeNotion.Shared.dll
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\LikeNotion.Shared.pdb
+C:\Users\skgmy\source\repos\LikeNotion\Shared\obj\Debug\net6.0\ref\LikeNotion.Shared.dll

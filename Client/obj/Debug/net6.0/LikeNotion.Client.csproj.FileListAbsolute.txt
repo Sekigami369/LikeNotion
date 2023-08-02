@@ -1,0 +1,6 @@
+C:\Users\skgmy\source\repos\LikeNotion\Client\obj\Debug\net6.0\LikeNotion.Client.csproj.AssemblyReference.cache
+C:\Users\skgmy\source\repos\LikeNotion\Client\obj\Debug\net6.0\LikeNotion.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgmy\source\repos\LikeNotion\Client\obj\Debug\net6.0\LikeNotion.Client.AssemblyInfoInputs.cache
+C:\Users\skgmy\source\repos\LikeNotion\Client\obj\Debug\net6.0\LikeNotion.Client.AssemblyInfo.cs
+C:\Users\skgmy\source\repos\LikeNotion\Client\obj\Debug\net6.0\LikeNotion.Client.csproj.CoreCompileInputs.cache
+C:\Users\skgmy\source\repos\LikeNotion\Client\obj\Debug\net6.0\LikeNotion.Client.MvcApplicationPartsAssemblyInfo.cache

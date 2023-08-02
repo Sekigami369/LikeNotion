@@ -1,0 +1,8 @@
+C:\Users\skgmy\source\repos\LikeNotion\Server\obj\Debug\net6.0\LikeNotion.Server.csproj.AssemblyReference.cache
+C:\Users\skgmy\source\repos\LikeNotion\Server\obj\Debug\net6.0\LikeNotion.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgmy\source\repos\LikeNotion\Server\obj\Debug\net6.0\LikeNotion.Server.AssemblyInfoInputs.cache
+C:\Users\skgmy\source\repos\LikeNotion\Server\obj\Debug\net6.0\LikeNotion.Server.AssemblyInfo.cs
+C:\Users\skgmy\source\repos\LikeNotion\Server\obj\Debug\net6.0\LikeNotion.Server.csproj.CoreCompileInputs.cache
+C:\Users\skgmy\source\repos\LikeNotion\Server\obj\Debug\net6.0\LikeNotion.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\skgmy\source\repos\LikeNotion\Server\obj\Debug\net6.0\LikeNotion.Server.RazorAssemblyInfo.cache
+C:\Users\skgmy\source\repos\LikeNotion\Server\obj\Debug\net6.0\LikeNotion.Server.RazorAssemblyInfo.cs
