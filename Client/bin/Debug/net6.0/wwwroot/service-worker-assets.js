@@ -897,11 +897,11 @@
       "url": "_framework\/LikeNotion.Shared.pdb"
     },
     {
-      "hash": "sha256-jm\/QQzrUKrYtQMbPegGLjWDfEQ9pAC9phVe\/jbA40us=",
+      "hash": "sha256-fyXHp+pYa5y8M26rDvbup0lZ+EemUa8RftDGb3a9O2g=",
       "url": "_framework\/LikeNotion.Client.dll"
     },
     {
-      "hash": "sha256-3Ab2\/C95HXCoZRTijoNqQVElpAebKwsFiwATWuHTxog=",
+      "hash": "sha256-nqG3QOruN6j2xX5Ne8RObTBK8awNJkBYBn8XyWKnctM=",
       "url": "_framework\/LikeNotion.Client.pdb"
     },
     {
@@ -909,9 +909,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-p8hstKlaun+64bBohReE4O77xTaDQq513rXSSQ1Pt2M=",
+      "hash": "sha256-7DogZ75ll487J15KZSMEqUJ0txvaOy5g8TgJwkc+Vsw=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "AMoJJde+"
+  "version": "jYSzHooM"
 };

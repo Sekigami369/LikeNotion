@@ -205,14 +205,14 @@
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
       "LikeNotion.Shared.dll": "sha256-IrOUaA1xlOzpVCCNZBKywaKgDwxyeIpib7DO9Wr5xVI=",
-      "LikeNotion.Client.dll": "sha256-AHzSN64vlGuSHI5El0hctFZNAD2f3WFEPL8\/wnLFSYI="
+      "LikeNotion.Client.dll": "sha256-SpUC5PwmnnWcto9uloa9UvhMl9bfXpQopzpcUFYA3IY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "LikeNotion.Shared.pdb": "sha256-F+b7FR7HVf\/lvZreMZtk8iLBJN38+3R4vem9Fl1gWDk=",
-      "LikeNotion.Client.pdb": "sha256-3WOPOusJWLYOReeP1f1CUTimfhl0ojfO2jl0TAgMeBw="
+      "LikeNotion.Client.pdb": "sha256-\/+ITqKOm\/yMRS\/EiHfCBpbPbmHbs6jmDLCiGe5WBWnU="
     },
     "runtime": {
       "dotnet.6.0.16.fldq110jo0.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",
