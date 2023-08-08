@@ -8,11 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Pages\SharedDocumentRazor.razor" />
+    <Content Remove="Pages\SharedDocumentRz.razor" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="Pages\SharedDocumentRazor.razor" />
+    <None Include="Pages\SharedDocumentRz.razor" />
   </ItemGroup>
 
   <ItemGroup>
